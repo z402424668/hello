@@ -19,5 +19,6 @@ public class Hello{
 		System.out.println("测试方法!");
 		System.out.println("master!!!!!");
 		System.out.println("branch2!!!!");
+		System.out.println("remote!!!!");
 	}
 }
