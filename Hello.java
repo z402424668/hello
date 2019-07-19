@@ -20,5 +20,6 @@ public class Hello{
 		System.out.println("master!!!!!");
 		System.out.println("branch2!!!!");
 		System.out.println("local!!!!");
+		System.out.println("remote!!!!");
 	}
 }
