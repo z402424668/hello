@@ -7,5 +7,6 @@ public class Hello{
 	public void test(){
 		serr("测试测试!!!");
 		System.out.println("测试方法!");
+		System.out.println("master!!!!!");
 	}
 }
