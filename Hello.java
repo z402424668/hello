@@ -6,6 +6,6 @@ public class Hello{
 	// 测试方法
 	public void test(){
 		serr("测试测试!!!");
-		
+		System.out.println("测试方法!");
 	}
 }
